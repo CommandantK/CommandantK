@@ -110,7 +110,7 @@ Je m'intéresse à l'auto-hébergement et à la mise en place d'environnements d
 
 <p align="left">
   <a href="https://discord.com/users/181056917345533952" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Commandant%230664-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-commandant.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
